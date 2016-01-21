@@ -1,0 +1,14 @@
+[ignore]
+lib
+.*/node_modules/.*
+.*/node_modules/rx/.*
+.*/node_modules/babel.*
+.*/node_modules/babylon.*
+
+[include]
+
+[libs]
+interfaces/
+
+[options]
+esproposal.class_static_fields=enable
